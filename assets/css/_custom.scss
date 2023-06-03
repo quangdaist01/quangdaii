@@ -1,0 +1,36 @@
+// ==============================
+// Custom style
+// 自定义样式
+// ==============================
+html {
+    font-size: 17px;
+}
+
+#header-desktop {
+    height: 2.6rem;
+    line-height: 1.8rem;
+}
+
+.search .search-button {
+    top: -2pt;
+}
+
+
+.home[posts] .summary .featured-image-preview {
+    width: 100%;
+    padding: 20% 0 0;
+    margin: 0.25rem auto;
+}
+
+.home[posts] .summary {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+
+.home[posts] .summary .single-title {
+    margin: 0.0rem 0;
+}
+
+.home[posts] .summary .content {
+    margin-top: 0rem;
+}
