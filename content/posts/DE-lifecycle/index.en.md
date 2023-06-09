@@ -17,7 +17,7 @@ Mình rất ủng hộ các bạn đọc cuốn này nha.
 Theo Sandro Mancuso, có 4 loại sách kĩ thuật (technical books) mà chúng ta cần quan tâm trong sự nghiệp
 
 1. Technology-specific books: Sách thiên về một công nghệ nào đó. Chúng rất có ích nhưng vòng đời ngắn. Nội dung có thể nhanh chóng bị lỗi thời nếu không được cập nhật thường xuyên.
-    1. [Kafka](https://www.amazon.com/Kafka-Definitive-Real-Time-Stream-Processing/dp/1491936169/ref=sr_1_2?crid=2S21CLBAKWC6&keywords=kafka+data&qid=1686297000&s=books&sprefix=kafka+d%2Cstripbooks-intl-ship%2C464&sr=1-2), [Hadoop](https://www.amazon.com/Hadoop-Definitive-Storage-Analysis-Internet/dp/1491901632/ref=sr_1_1?crid=22W5GO4P9OVRG&keywords=hadoop&qid=1686296934&s=books&sprefix=hado%2Cstripbooks-intl-ship%2C332&sr=1-1),…
+    - [Kafka](https://www.amazon.com/Kafka-Definitive-Real-Time-Stream-Processing/dp/1491936169/ref=sr_1_2?crid=2S21CLBAKWC6&keywords=kafka+data&qid=1686297000&s=books&sprefix=kafka+d%2Cstripbooks-intl-ship%2C464&sr=1-2), [Hadoop](https://www.amazon.com/Hadoop-Definitive-Storage-Analysis-Internet/dp/1491901632/ref=sr_1_1?crid=22W5GO4P9OVRG&keywords=hadoop&qid=1686296934&s=books&sprefix=hado%2Cstripbooks-intl-ship%2C332&sr=1-1),…
 2. Conceptual books: Sách thiên về khái niệm. Trong đó có thể rất ích code nhưng nó chứa những kiến thức nền tảng để thẳng tiến trong sự nghiệp (Ví dụ: SE books)
     - [Software Engineering](https://www.amazon.com/Software-Engineering-10th-Ian-Sommerville/dp/0133943038#customerReviews), [Fundamentals of Data Engineering](https://www.amazon.com/Fundamentals-Data-Engineering-Robust-Systems/dp/1098108302) (cuốn sách mình giới thiệu ✅),…
 3. Behavioral books: Sách giúp chúng ta quản lí bản thân và làm việc nhóm hiệu quả hơn
@@ -76,11 +76,11 @@ Hiểu hơn về:
 {{< image src="./row-vs-columnar.png" caption="[Microsoft PowerPoint - Column-Oriented Database Systems FINAL (umd.edu)](http://www.cs.umd.edu/~abadi/talks/Column_Store_Tutorial_VLDB09.pdf) ">}}
 
 
-| Thao tác | Row-oriented: Lưu dữ liệu theo dòng | Column-oriented: Lưu dữ liệu theo cột |
-| --- | --- | --- |
-| insert 1 record có n thuộc tính (cột) | Viết record vô 1 file | Viết record vô n file |
-| delete 1 record | Xóa record đó ở 1 file | Xóa record đó ở n file |
-| select first_name from table_A | Đọc giá trị salary của tất cả record trong tất cả các files | Đọc giá trị ở file lưu salary |
+| Thao tác | Row-oriented                                                      | Column-oriented                     |
+| --- |-------------------------------------------------------------------|-------------------------------------|
+| insert 1 record có n thuộc tính (cột) | Viết record vô 1 file                                             | Viết record vô n file               |
+| delete 1 record | Xóa record đó ở 1 file                                            | Xóa record đó ở n file              |
+| select first_name from table_A | Đọc giá trị salary của tất cả record trong tất cả các files       | Đọc giá trị ở file lưu salary       |
 | select sum(salary) from table_A | Đọc giá trị salary của tất cả record trong tất cả các files → Sum | Đọc giá trị ở file lưu salary → Sum |
 
 Tham khảo:
@@ -179,10 +179,10 @@ Một số thao tác biến đổi dữ liệu phổ biến:
 - Kết hợp từ nhiều nguồn khác nhau
     - `join()`, `union()`, `concat()`,…
 - Làm sạch dữ liệu
-    - Xử lí missing: **`na.drop()`**, **`na.fill()`**, **`na.replace()`**
-    - Xử lí trùng: **`dropDuplicates()`**
-    - Biến đổi string:**`trim()`**, **`lower()`**, **`upper()`**, **`regexp_replace()`**, **`substring()`**
-    - Regular Expressions: **`regexp_extract()`**, **`regexp_replace()`**, or **`rlike()`** (Ví dụ trích `100000` từ `100,000 VNĐ`)
+    - Xử lí missing: `na.drop()`, `na.fill()`, `na.replace()`
+    - Xử lí trùng: `dropDuplicates()`
+    - Biến đổi string:`trim()`, `lower()`, `upper()`, `regexp_replace()`, `substring()`
+    - Regular Expressions: `regexp_extract()`, `regexp_replace()`, or `rlike()` (Ví dụ trích `100000` từ `100,000 VNĐ`)
     - User-Defined Functions (UDFs)
 - Tổng hợp dữ liệu: `count()`, `distinct()`, `sum()`, `groupBy()`,..
 
