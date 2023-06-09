@@ -29,5 +29,5 @@
 # Table Of Contents settings
 # 目录设置
 [tableOfContents]
-  startLevel = 2
+  startLevel = 1
   endLevel = 6

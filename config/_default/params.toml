@@ -6,7 +6,7 @@
 version = "0.3.X"
 # site default theme ("light", "dark", "black", "auto")
 # 网站默认主题 ("light", "dark", "black", "auto")
-defaultTheme = "auto"
+defaultTheme = "light"
 # public git repo url only then enableGitInfo is true
 # 公共 git 仓库路径，仅在 enableGitInfo 设为 true 时有效
 gitRepo = "https://github.com/quangdaist01"
@@ -35,7 +35,7 @@ cacheRemoteImages = false
 [header]
 # desktop header mode ("fixed", "normal", "auto")
 # 桌面端导航栏模式 ("fixed", "normal", "auto")
-desktopMode = "fixed"
+desktopMode = "normal"
 # mobile header mode ("fixed", "normal", "auto")
 # 移动端导航栏模式 ("fixed", "normal", "auto")
 mobileMode = "auto"
@@ -216,11 +216,12 @@ sort = true
 [page.header.number]
 enable = true
 [page.header.number.format]
-h2 = "{h2} {title}"
-h3 = "{h2}.{h3} {title}"
-h4 = "{h2}.{h3}.{h4} {title}"
-h5 = "{h2}.{h3}.{h4}.{h5} {title}"
-h6 = "{h2}.{h3}.{h4}.{h5}.{h6} {title}"
+h1 = "{h1}. {title}"
+h2 = "{h1}.{h2}. {title}"
+h3 = "{h1}.{h2}.{h3}. {title}"
+h4 = "{h1}.{h2}.{h3}.{h4}. {title}"
+h5 = "{h1}.{h2}.{h3}.{h4}.{h5}. {title}"
+h6 = "{h1}.{h2}.{h3}.{h4}.{h5}.{h6}. {title}"
 # KaTeX mathematical formulas config (KaTeX https://katex.org/)
 # KaTeX 数学公式配置 (KaTeX https://katex.org/)
 [page.math]
