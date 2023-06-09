@@ -6,8 +6,6 @@ draft: false
 description: "Một cái nhìn toàn diện về dữ liệu"
 summary: "Một cái nhìn toàn diện về dữ liệu"
 featuredImage: "five-stages.png"
-tags: ["emoji"]
-categories: ["documentation"]
 ---
 
 # Giới thiệu
