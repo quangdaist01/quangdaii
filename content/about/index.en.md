@@ -39,3 +39,13 @@ Mình đã nhận quá nhiều rồi. Vì vậy mình cũng muốn được góp
 > Cảm ơn mọi người đã đọc 🙏
 > 
 > Chúc mọi người một ngày tốt lành🤗
+
+<details>
+    <summary></summary>
+Có một lí do "extreme" hơn. Một câu hỏi cứ hay xuất hiện trong đầu mình: 
+
+    Nếu một ngày mình không còn tồn tại, thì mình sẽ hối tiếc điều gì nhất?
+
+Chắc mình sẽ nói câu: ["I Didn't Do Enough"](https://www.youtube.com/watch?v=W9vj2Wf57rQ). Thế nên mình sẽ cố gắng cho đi thật nhiều trước lúc đó.
+    
+</details>
