@@ -543,7 +543,7 @@ function initToc () {
       } else {
         // If in the middle
         // Set toc to fixed with TOP_SPACING
-        toc.style.position = 'fixed'
+        toc.style.position = 'absolute'
         toc.style.top = `${minTocTop}px`
       }
       // Update the active toc link
