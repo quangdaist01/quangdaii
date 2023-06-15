@@ -533,17 +533,17 @@ function initToc () {
       if (window.newScrollTop < minScrollTop) {
         // If scroll to the top of the page
         // Set toc to absolute
-        toc.style.position = 'absolute'
+        toc.style.position = 'fixed'
         toc.style.top = `${minTocTop}px`
       } else if (window.newScrollTop > maxScrollTop) {
         // If scroll to the bottom of the page
         // Set toc to absolute
-        toc.style.position = 'absolute'
+        toc.style.position = 'fixed'
         toc.style.top = `${minTocTop}px`
       } else {
         // If in the middle
         // Set toc to fixed with TOP_SPACING
-        toc.style.position = 'absolute'
+        toc.style.position = 'fixed'
         toc.style.top = `${minTocTop}px`
       }
       // Update the active toc link
