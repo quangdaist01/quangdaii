@@ -8,12 +8,14 @@ summary: "Bạn có học đúng cách chưa?"
 featuredImage: "human-learning.png"
 ---
 
+Ở bài viết này, mình sẽ chia sẻ phương pháp tối ưu việc học dựa trên cách bộ não xử lí thông tin.
+
 # Học ≠ Học
 
-**Study** và **Learn** trong tiếng Anh đều có nghĩa là **Học** nhưng thực tế chúng là 2 khái niệm khác nhau:
+**Study** và **Learn** trong tiếng Anh đều có nghĩa là **Học**, nhưng thực tế chúng là 2 khái niệm khác nhau:
 
-- **Study** là quá trình vật lí bên ngoài, chẳng hạn như ngồi đọc sách, làm bài tập, nghe giảng
-- **Learn** là quá trình diễn ra trong đầu mình (cognitive process).
+- **Study** là quá trình vật lí, diễn ra bên ngoài, chẳng hạn như ngồi đọc sách, làm bài tập, nghe giảng.
+- **Learn** là quá trình xảy ra trong đầu (cognitive process).
 
 > **Study → Learn**
 > 
@@ -24,12 +26,12 @@ Vấn đề đó gọi là: **Học không hiệu quả** 😢
 
 Vậy làm sao “**learn**” nhiều hơn?
 
-Để làm được điều đó thì chúng ta cần hiểu:
+Để đạt được điều đó thì chúng ta cần hiểu:
 
 1. Các loại trí nhớ
 2. Quá trình ghi nhớ thông tin
 
-Mình sẽ đi giải thích lần lượt từng khái niệm, sau đó đưa ra một số cách một số cách giúp cải thiện việc học.
+Mình sẽ đi giải thích lần lượt từng khái niệm, sau đó đưa ra một số cách giúp cải thiện việc học.
 
 ## Các loại trí nhớ
 
@@ -49,7 +51,7 @@ Mình sẽ đi giải thích lần lượt từng khái niệm, sau đó đưa r
 
 1. **Focus**: Tiếp thu thông tin từ bên ngoài
     
-    Các bạn đang tiếp thu thông tin này vô **Bộ nhớ giác quan** nhờ vào 👀. Trong lúc này, nếu chúng ta bị phân tâm bởi cảm giác đói bụng, tiếng kèn tin tin, multi-tasking,… thì sẽ khó đưa nó vô tiếp **Bộ nhớ làm việc** được. Chúng ta cần phải **TẬP TRUNG**.
+    Bạn đang tiếp thu thông tin này vô **Bộ nhớ giác quan** nhờ vào 👀. Trong lúc này, nếu chúng ta bị phân tâm bởi cảm giác đói bụng, tiếng kèn tin tin, multi-tasking,… thì sẽ khó đưa nó vô tiếp **Bộ nhớ làm việc** được. Chúng ta cần phải **TẬP TRUNG**.
     
     Nhờ sự tập trung, thông tin mới có thể đi từ **Bộ nhớ giác quan** → **Bộ nhớ làm việc**.
     
@@ -84,7 +86,7 @@ Mình sẽ đi giải thích lần lượt từng khái niệm, sau đó đưa r
     
     Sau khi được encode thì kiến thức đó sẽ được củng cố và đi vào **Bộ nhớ dài hạn**. Để dễ dàng gợi lại thì nó phải có liên kết với những kiến thức khác.
     
-    Ở ví dụ 1, nếu chỉ nhớ “A vừa cao vừa ốm” thì mình sẽ nhanh chóng quên nó. Vì vậy, mình tạo sự liên kết như sau: 
+    Ở ví dụ 1, nếu chỉ nhớ “A vừa cao vừa ốm” thì mình sẽ nhanh chóng quên nó. Vì vậy, mình đã liên hệ như sau: 
     
     “A vừa cao vừa ốm” là một ví dụ mà mình đặt ra để giải thích sự khác nhau giữa thông tin và kiến thức. Biết được sự khác biệt này thì có thể hiểu hơn về cách bộ não xử lí thông tin. Sau khi hiểu cách giai đoạn xử lí thông tin thì mình có thể xác định vấn đề của mình trong từng giai đoạn (Ví dụ giai đoạn Tập trung), từ đó cải thiện khả năng học của mình.
     
@@ -93,13 +95,11 @@ Mình sẽ đi giải thích lần lượt từng khái niệm, sau đó đưa r
 
 Sau khi hiểu được 3 giai đoạn xử lí thông tin, chúng ta sẽ thấy **hầu hết những vấn đề gặp phải trong lúc học đều rơi vào 1 trong 3 nhóm**:
 
-1. Thiếu Focus
-2. Khả năng Encode yếu
-3. Không thể Recall
+1. **Thiếu Focus**
+2. **Khả năng Encode yếu**
+3. **Không thể Recall**
 
-Hẳn các bạn cũng đã biết qua những phương pháp dưới đây rồi. Mình sẽ chỉ liệt kê một vài phương pháp thôi nhé.
-
-Hi vọng là sau bài viết này, các bạn sẽ dễ dàng hệ thống các tips mà bạn đã biết thành 3 nhóm cụ thể để nhớ và vận dụng tốt hơn. Chính việc gom nhóm này cũng được xem là một phương pháp học, gọi là [chunking](https://julienbeaulieu.gitbook.io/wiki/books/a-mind-for-numbers-how-to-excel-at-math-and-science/working-memory-and-long-term-memory/chunking).
+Hẳn bạn cũng đã biết qua những phương pháp dưới đây rồi, nên mình chỉ liệt kê một vài phương pháp tham khảo thôi nhé. Hi vọng là bạn sẽ dễ dàng hệ thống các tips mà bạn đã biết thành 3 nhóm cụ thể để nhớ và vận dụng tốt hơn.
 
 # Focus
 
@@ -107,9 +107,9 @@ Hi vọng là sau bài viết này, các bạn sẽ dễ dàng hệ thống các
 
 **Giải pháp**👇:
 
-- Quy tắc 5 phút: Tự nhủ rằng mình chỉ cần tập trung 5 phút thôi → Sau đó học liên tiếp 5 tiếng 😁
-- Poromodo: Nghỉ ngơi thường xuyên để tập trung tốt hơn
-- Phạt: Nếu hôm nay không viết xong blog này thì đưa 200k cho đứa bạn
+- **Quy tắc 5 phút**: Tự nhủ rằng mình chỉ cần tập trung 5 phút thôi → Sau đó học liên tiếp 5 tiếng 😁
+- **Poromodo**: Nghỉ ngơi thường xuyên để tập trung tốt hơn
+- **Phạt**: Nếu hôm nay không viết xong blog này thì đưa 200k cho đứa bạn
 
 ---
 
@@ -117,10 +117,10 @@ Hi vọng là sau bài viết này, các bạn sẽ dễ dàng hệ thống các
 
 **Giải pháp**👇:
 
-- Tắt chuông điện thoại
-- Đeo tai nghe → Giảm tiếng ồn
-- Dọn dẹp bàn làm việc + màn hình Desktop
-- Làm việc trên máy tính thì để chế độ toàn màn hình (bấm F11)
+- **Tắt chuông** điện thoại
+- **Đeo tai nghe** → Giảm tiếng ồn
+- **Dọn dẹp** bàn làm việc + màn hình Desktop
+- Làm việc trên máy tính thì để **chế độ toàn màn hình** (bấm F11)
 
 {{< image src="./focus.png" caption="[How To Focus On What Matters And Ignore The Rest](https://simplifyyourwhy.com/blog/how-to-focus-on-what-matters-and-ignore-the-rest)">}}
 
@@ -140,13 +140,13 @@ Theo tác giả cuốn [Make It Stick](https://www.amazon.com/Make-Stick-Science
 
 Dưới đây là một số cách kích thích bộ não vận động nhiều hơn:
 
-1. **[Delay taking notes](https://fb.watch/l6xVrW5ZN0/)**: Kéo dài thời gian động não trước khi ghi chép lại kiến thức
+- **[Delay taking notes](https://fb.watch/l6xVrW5ZN0/)**: Kéo dài thời gian động não trước khi ghi chép lại kiến thức
     
     Ghi chép (nói chung) là cách để giảm bớt gánh nặng cho bộ não. Tuy nhiên, trước khi làm vậy thì chúng ta nên suy nghĩ kĩ thêm về chủ đề đó. Mình gợi ý một số ý tưởng:
     
     - Nhóm những nội dung lại với nhau.
     - Liên hệ với những thứ mình đã học.
-2. **[Áp dụng Higher Order Thinking](https://learningcenter.unc.edu/tips-and-tools/higher-order-thinking/)**: Học để hành
+- **[Áp dụng Higher Order Thinking](https://learningcenter.unc.edu/tips-and-tools/higher-order-thinking/)**: Học để hành
     
     Để phân loại cấp độ học tập thì người ta tạo ra **Thang đo Bloom** gồm 6 mức độ như hình.
 
@@ -158,7 +158,7 @@ Dưới đây là một số cách kích thích bộ não vận động nhiều 
     
     Giải sử mục đích đọc bài này của bạn là **lấy thông tin** thì có khả năng rất cao là bạn sẽ nhanh chóng quên nội dung chính. Không tin ư? ***Hãy thử nhắm mắt lại rồi nhớ và trình bày lại những gì bạn vừa đọc xem.***
     
-    Nếu các bạn vẫn nhớ được thì chúc mừng bạn, trí nhớ của bạn quá tốt. Nhưng chúng ta không cần phải có bộ nhớ siêu phàm để có thể làm được như vậy. Chỉ cần áp dụng **Higher Order Thinking** thôi 🤣
+    Nếu bạn vẫn nhớ được thì chúc mừng bạn, trí nhớ của bạn quá tốt. Nhưng chúng ta không cần phải có bộ nhớ siêu phàm để có thể làm được như vậy. Chỉ cần áp dụng **Higher Order Thinking** thôi 🤣
     
     Dưới đây là một số câu hỏi nằm ở bậc cao. Khi mục tiêu đọc của bạn là trả lời cho những câu hỏi này thì bạn sẽ tiếp thu nội dung tốt hơn rất nhiều.
     
@@ -184,12 +184,12 @@ Dưới đây là một số cách kích thích bộ não vận động nhiều 
 
 **Giải pháp**👇:
 
-- Ngủ đủ giấc và chất lượng
-- Spaced repetition: Mình thường tạo flashcard trên Anki để ôn lại kiến thức của mình
+- **Ngủ**: đủ giấc và chất lượng
+- **Spaced repetition**: Mình thường tạo flashcard trên Anki để ôn lại kiến thức của mình
         
     {{< image src="./anki.png" caption="Flashcard một thời của mình">}}
         
-- Mnemonics: Liên hệ kiến thức của mình với đồ vật, bộ phận cơ thể, bài hát, hình ảnh,…  Thường dùng để nhớ từ vựng
+- **Mnemonics**: Liên hệ kiến thức của mình với đồ vật, bộ phận cơ thể, bài hát, hình ảnh,…  Thường dùng để nhớ từ vựng
         
     {{< image src="./vocab.png" caption="[Mnemonics Method](https://riki.edu.vn/phuong-phap-mnemonics-method/)">}}
     
@@ -209,4 +209,4 @@ Bài viết này cung cấp bức tranh tổng thể về quá trình học mọ
 >
 > Chúc mọi người một ngày tốt lành🤗
 > 
-> Chúc các bạn học tốt 📚
+> Và chúc mọi người học tốt 📚
