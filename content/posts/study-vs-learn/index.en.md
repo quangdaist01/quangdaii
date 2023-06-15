@@ -33,7 +33,7 @@ Mình sẽ đi giải thích lần lượt từng khái niệm, sau đó đưa r
 
 ## Các loại trí nhớ
 
-{{< image src="./memory.png" caption="[Multi-Store Memory Model: Atkinson and Shiffrin (simplypsychology.org)](https://www.simplypsychology.org/multi-store.html)">}}
+{{< image src="./memory.png" caption="[Multi-Store Memory Model](https://www.simplypsychology.org/multi-store.html)">}}
 
 
 - **Bộ nhớ giác quan** (Có nơi dịch là *bộ nhớ tạm thời*, nhưng mình thấy dễ bị nhầm lẫn với *bộ nhớ làm việc/ngắn hạn* ở dưới):
@@ -61,7 +61,7 @@ Mình sẽ đi giải thích lần lượt từng khái niệm, sau đó đưa r
     
     → Kiến thức: “*Messi chỉ cao 170cm mà đá hay vậy. Ngưỡng mộ quá!~~*”
     
-    {{< image src="./messi.png" caption="[Lionel Messi trophies: What titles, honours has Argentina legend won for club and country? | Sporting News](https://www.sportingnews.com/us/soccer/news/lionel-messi-trophies-titles-honours-argentina-club-country/hyq968qglkkglqyv1de08tva)">}}
+    {{< image src="./messi.png" caption="[Lionel Messi trophies](https://www.sportingnews.com/us/soccer/news/lionel-messi-trophies-titles-honours-argentina-club-country/hyq968qglkkglqyv1de08tva)">}}
     
     Trong ví dụ trên, hẳn ai cũng có thể tượng tượng ra một người cao 170cm, nặng 72kg và nhanh chóng biến thông tin đó → kiến thức. Nhưng trên thực tế cần rất nhiều nỗ lực để hình thành “kiến thức” thực sự.
     
@@ -78,7 +78,7 @@ Mình sẽ đi giải thích lần lượt từng khái niệm, sau đó đưa r
     
     **Encode là giai đoạn quan trọng và khó khăn nhất** vì não chúng ta phải hoạt động tối đa công suất để biến thông tin → kiến thức có ích. Đây là lúc mà chúng ta thực sự “học” (learn)
     
-   {{< image src="./chunking.png" caption="[amazon.com/Mind-Numbers-Science-Flunked-Algebra-ebook/dp/B00G3L19ZU](https://www.amazon.com/Mind-Numbers-Science-Flunked-Algebra-ebook/dp/B00G3L19ZU)">}}
+   {{< image src="./chunking.png" caption="[A Mind For Numbers](https://www.amazon.com/Mind-Numbers-Science-Flunked-Algebra-ebook/dp/B00G3L19ZU)">}}
     
 3. **Consolidate + Recall**: Củng cố và nhớ lại kiến thức
     
@@ -122,7 +122,7 @@ Hi vọng là sau bài viết này, các bạn sẽ dễ dàng hệ thống các
 - Dọn dẹp bàn làm việc + màn hình Desktop
 - Làm việc trên máy tính thì để chế độ toàn màn hình (bấm F11)
 
-{{< image src="./focus.png" caption="[How To Focus On What Matters And Ignore The Rest — Simplify Your Why](https://simplifyyourwhy.com/blog/how-to-focus-on-what-matters-and-ignore-the-rest)">}}
+{{< image src="./focus.png" caption="[How To Focus On What Matters And Ignore The Rest](https://simplifyyourwhy.com/blog/how-to-focus-on-what-matters-and-ignore-the-rest)">}}
 
 # Encoding
 
@@ -150,7 +150,7 @@ Dưới đây là một số cách kích thích bộ não vận động nhiều 
     
     Để phân loại cấp độ học tập thì người ta tạo ra **Thang đo Bloom** gồm 6 mức độ như hình.
 
-    {{< image src="./bloom.png" caption="[7 Ways to Use Bloom’s Taxonomy in Class - by David Weller (barefootteflteacher.com)](https://www.barefootteflteacher.com/p/7-ways-to-use-blooms-taxonomy-in)">}}
+    {{< image src="./bloom.png" caption="[7 Ways to Use Bloom’s Taxonomy in Class](https://www.barefootteflteacher.com/p/7-ways-to-use-blooms-taxonomy-in)">}}
     
     Theo …, thay vì tập trung từ những bậc thấp nhất, chẳng hạn như **Nhớ** và **Hiểu** thì nên tập trung học ở mức độ cao (**Analyze**, **Evaluate**, **Create**). Khi đó, việc **Nhớ** và **Hiểu** sẽ diễn ra một cách tự động để phục vụ cho những bậc cao hơn.
     
@@ -185,22 +185,19 @@ Dưới đây là một số cách kích thích bộ não vận động nhiều 
 **Giải pháp**👇:
 
 - Ngủ đủ giấc và chất lượng
-- Spaced repetition:
-    - Mình thường tạo flashcard trên Anki để ôn lại kiến thức của mình
+- Spaced repetition: Mình thường tạo flashcard trên Anki để ôn lại kiến thức của mình
         
-        {{< image src="./anki.png" caption="Flashcard một thời của mình">}}
+    {{< image src="./anki.png" caption="Flashcard một thời của mình">}}
         
-- Mnemonics:
-    - Liên hệ kiến thức của mình với đồ vật, bộ phận cơ thể, bài hát, hình ảnh,…
-    - Thường dùng để nhớ từ vựng
+- Mnemonics: Liên hệ kiến thức của mình với đồ vật, bộ phận cơ thể, bài hát, hình ảnh,…  Thường dùng để nhớ từ vựng
         
-        {{< image src="./vocab.png" caption="[MNEMONICS METHOD: PHƯƠNG PHÁP GHI NHỚ TUYỆT VỜI TRONG TIẾNG NHẬT - (riki.edu.vn)](https://riki.edu.vn/phuong-phap-mnemonics-method/)">}}
-        
-        Một thời đáng quên😢😭🤯:
+    {{< image src="./vocab.png" caption="[Mnemonics Method](https://riki.edu.vn/phuong-phap-mnemonics-method/)">}}
+    
+    Một thời đáng quên😢😭🤯:
 
-        {{< image src="./nguyen-to.png" caption="[Mẹo học thuộc Bảng tuần hoàn nguyên tố hóa học Mendeleev bằng thơ, câu nói vui vẻ (vietnamnet.vn)](https://infonet.vietnamnet.vn/meo-hoc-thuoc-bang-tuan-hoan-nguyen-to-hoa-hoc-bang-tho-cau-noi-vui-ve-392338.html)">}}
-     
-        {{< image src="./hoa-tri.png" caption="[marvelvietnam.com | 502: Bad gateway](https://marvelvietnam.com/top18/bai-viet/bai-tho-hoa-tri-bai-tho-ten-nguyen-to-hoa-hoc-lop-8/)">}}
+    {{< image src="./nguyen-to.png" caption="[Mẹo học thuộc Bảng tuần hoàn nguyên tố hóa học Mendeleev bằng thơ, câu nói vui vẻ](https://infonet.vietnamnet.vn/meo-hoc-thuoc-bang-tuan-hoan-nguyen-to-hoa-hoc-bang-tho-cau-noi-vui-ve-392338.html)">}}
+ 
+    {{< image src="./hoa-tri.png" caption="[marvelvietnam.com](https://marvelvietnam.com/top18/bai-viet/bai-tho-hoa-tri-bai-tho-ten-nguyen-to-hoa-hoc-lop-8/)">}}
         
 
 # Kết
