@@ -211,3 +211,7 @@ Sau khi dữ liệu đã được biến đổi rồi thì phải sử dụng n�
 # Tổng kết
 
 Bài viết này giới thiệu về Data Engineering Lifecycle và những khái niệm cơ bản trong từng giai đoạn Data Engineering Lifecycle. Đây là bức tranh tổng thể về dữ liệu và là xương sống cho toàn bộ những kiến thức DE mà mình đã, đang và sẽ học trong thời gian tới.
+
+> Cảm ơn mọi người đã đọc 🙏
+>
+> Chúc mọi người một ngày tốt lành🤗
