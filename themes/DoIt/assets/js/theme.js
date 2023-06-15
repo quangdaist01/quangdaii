@@ -539,12 +539,12 @@ function initToc () {
         // If scroll to the bottom of the page
         // Set toc to absolute
         toc.style.position = 'absolute'
-        toc.style.top = `${maxTocTop}px`
+        toc.style.top = `${minTocTop}px`
       } else {
         // If in the middle
         // Set toc to fixed with TOP_SPACING
         toc.style.position = 'fixed'
-        toc.style.top = `${TOP_SPACING}px`
+        toc.style.top = `${minTocTop}px`
       }
       // Update the active toc link
       // Return directly if no toc link
