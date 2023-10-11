@@ -1,6 +1,6 @@
 ---
 title: "Vim"
-date: 2023-07-1
+date: 2023-07-01
 lastmod: 2023-10-11
 draft: false
 description: "Không phải nước tẩy"
@@ -12,11 +12,13 @@ Nếu được hỏi một trong những kĩ năng quan trọng nhất mà mình
 
 # Vậy Vim là gì?
 
-Đối với mình, Vim không phải là một phần mềm, nó là một phong cách thao tác với văn bản mà không cần phải dùng phím mũi tên và hạn chế tối đa việc sử dụng chuột:
+Đối với mình, Vim không phải là một phần mềm, nó là một phong cách thao tác với văn bản mà không cần phải dùng phím mũi tên và hạn chế tối đa việc sử dụng chuột.
 
-Note: Mình dùng chữ “thao tác” chứ không phải là “gõ” nhé. Lí do là vì khi xài Vim thì ngoài tính năng gõ bình thường (insert mode) thì chúng ta có thể xóa, copy, paste,… và rất nhiều thao tác khác nhé nhờ vào sự kết hợp giữa Insert + Normal + Visual mode.
+Mình dùng chữ “thao tác” chứ không phải là “gõ” nhé. Lí do là vì khi xài Vim thì ngoài tính năng gõ bình thường (insert mode) thì chúng ta có thể xóa, copy, paste,… và rất nhiều thao tác khác nhé nhờ vào sự kết hợp giữa Insert + Normal + Visual mode.
 
-Theo wiki: “**Vim** ([/vɪm/](https://en.wikipedia.org/wiki/Help:IPA/English);[[6]](https://vi.wikipedia.org/wiki/Vim_(tr%C3%ACnh_so%E1%BA%A1n_th%E1%BA%A3o)#cite_note-pronounc-6) viết tắt của **Vi IMproved**) là một [trình soạn thảo văn bản](https://vi.wikipedia.org/wiki/Tr%C3%ACnh_so%E1%BA%A1n_th%E1%BA%A3o_v%C4%83n_b%E1%BA%A3n) [miễn phí](https://vi.wikipedia.org/wiki/Ph%E1%BA%A7n_m%E1%BB%81m_mi%E1%BB%85n_ph%C3%AD) và [mã nguồn mở](https://vi.wikipedia.org/wiki/M%C3%A3_ngu%E1%BB%93n_m%E1%BB%9F).”. Với cách hiểu này thì Vim là một phần mềm mà bạn sẽ download về rồi gõ văn bản trên đó. Khi gõ chữ trên phần mềm Vim, chúng ta sẽ có thể sử dụng bàn phím ở 3 chế độ:
+Còn theo [wiki](https://vi.wikipedia.org/wiki/Vim_(tr%C3%ACnh_so%E1%BA%A1n_th%E1%BA%A3o)): “**Vim** (**Vi IMproved**) là một trình soạn thảo văn bản miễn phí và mã nguồn mở“
+
+Với cách hiểu này thì Vim là một phần mềm mà bạn sẽ download về rồi gõ văn bản trên đó. Khi gõ chữ trên phần mềm Vim, chúng ta sẽ có thể sử dụng bàn phím ở 3 chế độ:
 
 - Insert mode: Gõ chữ bình thường như mọi ngày (a → z, 0 → 9, mũi tên, chuột,…), tương tự như khi dùng Word hay Notepad
 - Normal mode + Visual mode: Cho phép các thao tác như delete, copy, paste, undo, search, replace,…
@@ -46,15 +48,19 @@ Thì sau một năm liên tục sử dụng vim trong công việc, hiệu suấ
 
 “Nhưng giao diện Vim editor nhìn buồn tẻ quá, không lẽ mình phải xài nó thay vì Word hay VScode hả?”
 
-… giao diện Vim
+{{< image src="./boring-Vim.png" caption="Yes, it's Vim Editor =)">}}
 
 Thật ra, mình cũng thấy vậy.
 
 # Làm thế nào để bắt đầu học Vim?
 
-Cách dùng vim thì mình sẽ không nói chi tiết bởi mình tin là trên mạng đã có rất nhiều bài hướng dẫn rồi. Mình sẽ để link ở bên dưới.
+Cách dùng vim thì mình sẽ không nói chi tiết bởi trên mạng đã có rất nhiều bài hướng dẫn rồi. 
 
-Học giống như học tiếng Anh vậy á.
+Đây là video bổ ích nhất khi mình mới bắt đầu học vim:
+
+[**Mastering the Vim Language**](https://www.youtube.com/watch?v=wlR5gYd6um0&t=1s&ab_channel=thoughtbot): Học giống như học tiếng Anh vậy á.
+
+
 
 Bên cạnh Vim editor huyền thoại đã hơn 31 tuổi, hiện tại có rất nhiều plugin, extension trên Chrome, VScode, hay thậm chí là Windows 10 cho phép bạn thao tác theo phong cách Vim. 
 
